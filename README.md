@@ -7,7 +7,7 @@ This article also can help those persons who use high Nvidia GPU driver version.
 The official getting start tutorial you can find [Here](https://github.com/OSVR/OSVR-Docs). There is a official instruction of [GPU driver](https://github.com/OSVR/OSVR-Docs/blob/master/Troubleshooting/RenderManager.md#compatible-gpu-drivers) 
 
 #Software Preparation
-There is the official [download page](http://osvr.github.io/using/). If you do not want to save time and do not download from official page, you can download at my [github](https://github.com/OSVR/OSVR-Docs/blob/master/Getting-Started/Installing/windows.md). But the version is not the newest.
+There is the official [download page](http://osvr.github.io/using/). If you want to save time and do not download from official page, you can download at my [github](https://github.com/OSVR/OSVR-Docs/blob/master/Getting-Started/Installing/windows.md). But the version is not the newest.
 
 1. **OSVR Runtime for Windows**  
    * OSVR Runtime installer includes everything you need to get OSVR up and running (not for development, but everything for running)  
