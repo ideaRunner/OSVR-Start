@@ -14,7 +14,7 @@ There is the official [download page](http://osvr.github.io/using/). If you want
    * Click [**Download**](http://access.osvr.com/binary/osvr-runtime-installer) to enter the download page.
    * Choose the newest core version that is listed first. Make sure the software bits are matching your system. 
    * Click and then begin to download OSVR Runtime.  
-2. ** No need to Download *OSVR SDK for Windows***  
+2. ** No need to Download OSVR SDK for Windows**  
    * If you only want to run OSVR HDK2 to play some demos or games, **No** need to download *OSVR SDK*, Otherwise you can click and download at [this page](http://osvr.github.io/using/).
 3. **OSVR HDK Windows Driver Pack**  
    * These are drivers for OSVR HDK2.
