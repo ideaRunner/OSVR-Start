@@ -7,7 +7,7 @@ This article also can help those persons who use high Nvidia GPU driver version.
 The official getting start tutorial you can find [Here](https://github.com/OSVR/OSVR-Docs). There is a official instruction of [Nvidia GPU driver](https://github.com/OSVR/OSVR-Docs/blob/master/Troubleshooting/RenderManager.md#compatible-gpu-drivers) 
 
 #Software Preparation
-There is the official [download page](http://osvr.github.io/using/). If you want to save time and do not download from official page, you can download at my [github](https://github.com/OSVR/OSVR-Docs/blob/master/Getting-Started/Installing/windows.md). But the version is not the newest.
+There is the official [download page](http://osvr.github.io/using/). If you want to save time and do not download from official page, you can download at my [Github](https://github.com/ideaRunner/OSVR-Start).
 
 1. **OSVR Runtime for Windows**  
    * OSVR Runtime installer includes everything you need to get OSVR up and running (not for development, but everything for running)  
@@ -22,11 +22,25 @@ There is the official [download page](http://osvr.github.io/using/). If you want
    * If you want to run or play first, you can select the newest version of combined driver (exe file). Example: *OSVR-HDK-Combined-Driver-Installer-1.2.8.exe* 
    * No need to download other files such as *Source Code* or *inf file*.
 4. **SteamVR-OSVR**  
-   * It is a very important tool to use OSVR HDK2. Without it we may have some problems with direct mode and extend mode because of our higher GPU driver version.
+   * Before you use SteamVR-OSVR, **Steam** and **SteamVR** must be installed in your PC. You can search it on Google.  
+   * SteamVR-OSVR is a very useful tool to use OSVR HDK2. Without it we may have some problems with direct mode and extend mode because of our higher GPU driver version.
    * [Official page](https://github.com/OSVR/SteamVR-OSVR) and [Download page](https://bintray.com/osvr/SteamVR-OSVR/SteamVR-OSVR-Win/v0.1-296-g7011d81-core-v0.6-1935-ga2cba4b6#files)
    * You can download it at **Files** column. It is a *7z* Compressed file.
    
 #Software Installation
+
+1. **Install OSVR Runtime**
+	* Open OSVR Runtime installer. Exmaple:OSVR-Runtime-vxx.msi
+	* Recommend you to install by default.
+2. **Install OSVR HDK Windows Driver Pack**  
+	* Before you install the Combined-Driver, make sure all your OSVR devices unconnect your PC.
+	* Open driver installer.
+	* It cost little time.
+3. **SteamVR-OSVR**  
+	* Unzip the SteamVR-OSVR file. Example: SteamVR-OSVR-Win-Build-v0.1-296-g7011d81-core-v0.6-1935-ga2cba4b6.7z
+	* 
+
+
    
 
 
