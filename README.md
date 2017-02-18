@@ -69,7 +69,9 @@ There is the official [download page](http://osvr.github.io/using/). If you want
 9. Open your SteamVR. 
 10. If you can see the two green devices in SteamVR bar, it means your Combined-drivers of HDK2 has been installed successfully as well as your SteamVR-OSVR driver you copied early. If not, check your drivers.
 11. If you see the green **Ready** in SteamVR bar,awesome,you finish. You can use SteamVR do anything you want.
-12. If you see the red **Not Ready**, do not lose heart. You are very close to your success. See the **Quick Trouble Shooting**.
+12. If you see the red **Not Ready**, do not lose heart. You are very close to your success. See the **Quick Trouble Shooting**.  
+
+#Show Demos or Play Games
 
 #Quick Trouble Shooting
 ###SteamVR Warning
