@@ -86,11 +86,20 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
 2. **Extend Mode: One lens light, the other lens off**:
 	* It is hardware part of the line connection problem.
 	* Reconnect the 
-3. ****
+3. **Extend Mode: Some applications are open on our lenses**:
+	* There are hotkeys can help you move those applications in your main screen.
+	* Open those applications.
+	* Press **Win + ←** or **Win + →** serveral times.
+	* The applications will move between your screen and lenses.  
+4. **Extend Mode: Something wrong**
+	* If somethings wrong and you can not change the screen setting by using your mouse.
+	* Press **Win + P** slowly serveral times untill it back to normal.
+	* **Win + P** is the the hotkey to change the setting of multiple screens.
+
 
 
 ##Reference video
-[1](https://www.youtube.com/watch?v=TCA0CBXmS2Q&feature=youtu.be)
+[1](https://www.youtube.com/watch?v=TCA0CBXmS2Q&feature=youtu.be)  
 [2](https://www.youtube.com/watch?v=9Uju31UYWBM)
 
 
