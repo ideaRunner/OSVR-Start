@@ -114,8 +114,9 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
 5. **Extended Mode: Something wrong**
 	* If somethings wrong and you can not change the screen setting by using your mouse.
 	* Press **Win + P** slowly serveral times untill it back to normal.
-	* **Win + P** is the the hotkey to change the setting of multiple screens.
-
+	* **Win + P** is the the hotkey to change the setting of multiple screens.  
+	
+	* 12
 
 
 ##Reference video
