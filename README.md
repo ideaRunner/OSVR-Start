@@ -37,7 +37,7 @@ There is the official [download page](http://osvr.github.io/using/). If you want
 	* Open driver installer.
 	* It cost little time.
 3. **SteamVR-OSVR**  
-	* Make sure you have installed Steam and SteamVR. You can search it on google, it is very simple.
+	* Make sure you have installed Steam and SteamVR. If have not, you can search it on google, it is very simple.
 	* Unzip the SteamVR-OSVR file. Example: SteamVR-OSVR-Win-Build-v0.1-296-g7011d81-core-v0.6-1935-ga2cba4b6.7z
 	* Open the folder you created.
 	* Open ...\SteamVR-OSVR\lib\openvr
@@ -49,12 +49,17 @@ There is the official [download page](http://osvr.github.io/using/). If you want
 
 #How to Use
 ####Preparation
-1. Follow the instructions to connect the wires of OSVR HDK2.
+1. Follow your instructions to connect the wires of OSVR HDK2.
 2. Power it.
-3. Open **OSVR Central** which is included in OSVR Runtime. You can find it in your start menu.   
+3. Open **OSVR Central** which is included in OSVR Runtime. You can find it in your windows start menu.
 
 ####Configuration
-4. Then click **Tools** in the menu bar.
+1. Please check your configuration if this is the first time you use HDK2 or you have not checked it yet.
+2. Click **Tools** in the menu bar.
+3. Click **OSVR Configuration**.
+
+#####Start
+4. Click **Tools** in the menu bar.
 5. Click **Start OSVR Server**. Remember that every time the first thing to use OSVR is **Start OSVR Server**.
 6. Then you will see a black Dos Shell.
 7. Hold your head/HMD closer than 0.3 meters from the tracking camera for a few minutes. You can watch the instruction in the Shell.
@@ -64,16 +69,25 @@ There is the official [download page](http://osvr.github.io/using/). If you want
 11. If you see the green **Ready** in SteamVR bar,awesome,you finish. You can use SteamVR do anything you want.
 12. If you see the red **Not Ready**, do not lose heart. You are very close to your success. See the **Quick Trouble Shooting**.
 
+#Quick Trouble Shooting
 ###SteamVR Warning
 If your SteamVR is green **Ready**. Please do not apply the suggestions that SteamVR recommended. Because the suggestions may cause some problems.   
 You can have a try if you want, and the worst thing is to recopy the SteamVR-OSVR files.
 
-#Quick Trouble Shooting
 1. **SteamVR Not Ready: Compositor is not fullscreen**: 
 	* Close all the VR applications in SteamVR.
 	* Click **Make Compositor fullscreen**, if nothing happens, launch some other VR applications or restart SteamVR.
 	* It happens because VR apps have default settings of SteamVR. some of them may not supplied by OSVR.
 	* If useless, recopy SteamVR-OSVR files is our last way.
+2. **Extend Mode: One lens light, the other lens off**:
+	* It is hardware part of the line connection problem.
+	* Reconnect the 
+3. ****
+
+
+##Reference video
+[1](https://www.youtube.com/watch?v=TCA0CBXmS2Q&feature=youtu.be)
+[2](https://www.youtube.com/watch?v=9Uju31UYWBM)
 
 
 
@@ -82,8 +96,3 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
 
 
 
-
-
-
-故
-障类型 153 0203 0508 lingning.zhang@boip.com.cn
