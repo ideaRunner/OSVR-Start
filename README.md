@@ -1,4 +1,6 @@
 #OSVR_Quick_Start
+Author: BinZ@SUSTech  
+[Look at My Github](https://github.com/ideaRunner/OSVR-Start)
 ##Please Note
 
 This is a step-by-step tutorial that how to quickly start OSVR HDK2.  
