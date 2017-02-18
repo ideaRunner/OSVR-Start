@@ -76,7 +76,7 @@ Please notice that 1. Preparation and 2. Configuration only need to be done **on
     ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator3.png)
     * Choose **OSVR_HDK_2_0.json**, Click Use.
     ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator4.png)
-    * Click **Rendering** at Menu bar.
+    * Click **Rendering** at Menu bar.   
     ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator5.png)
     * In **Direct Mode**, Click **Disable**.  
     ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator6.png)
