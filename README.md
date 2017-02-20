@@ -39,7 +39,7 @@ There is the official [download page](http://osvr.github.io/using/). If you want
 	* Open OSVR Runtime installer. Exmaple:OSVR-Runtime-vxx.msi
 	* Recommend you to install by default.
 2. **Install OSVR HDK Windows Driver Pack**  
-	* Before you install the Combined-Driver, make sure all your OSVR devices unconnect your PC.
+	* Before you install the Combined-Driver, make sure all your OSVR devices are not connected to your PC.
 	* Open driver installer.
 	* It will not cost much time.
 3. **SteamVR-OSVR**  
@@ -106,7 +106,7 @@ Please notice that 1. Preparation and 2. Configuration only need to be done **on
 
 5. **Watch VR videos or Play Games with SteamVR**  
     * You need to **Run Room Setup** under SteamVR instructions 
-    * Then you can download or pruchase some applications in the Steam STORE.
+    * Then you can download or purchase some applications in the Steam STORE.
     * For VR video, I suggest *Simple VR Video Player*. It has a good user experience in playing VR videos.  
     * After that, You can do anything you want.
 
@@ -126,17 +126,17 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
     * **Restart** SteamVR.
 3. **Extended Mode: One lens light, the other lens off**:
 	* It is hardware part of the line connection problem.
-	* Reconnect F(IR Positional Tracking Sensor Box) and D(Belt Box Module) serveral times untill it back to normal.  
+	* Reconnect F(IR Positional Tracking Sensor Box) and D(Belt Box Module) several times until it back to normal.  
 	![Belt](https://github.com/ideaRunner/Images/raw/master/OSVR/Troubleshooting/TroubleShooting.png)
 	
 4. **Extended Mode: Some applications are open on our lenses**:
 	* There are hotkeys can help you move those applications in your main screen.
 	* Open those applications.
-	* Press **Win + ←** or **Win + →** serveral times.
+	* Press **Win + ←** or **Win + →** several times.
 	* The applications will move between your screen and lenses.  
 5. **Extended Mode: Something wrong**
 	* If somethings wrong and you can not change the screen setting by using your mouse.
-	* Press **Win + P** slowly serveral times untill it back to normal.
+	* Press **Win + P** slowly several times until it back to normal.
 	* **Win + P** is the the hotkey to change the setting of multiple screens.  
 	
 
