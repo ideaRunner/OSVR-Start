@@ -83,14 +83,14 @@ Please notice that 1. Preparation and 2. Configuration only need to be done **on
     * In **Samples**, find osvr_server_config.HDK20**Extended**Landscape.sample.json, click **Use**.  
     ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator7.png)
     * Close OSVR Configurator and back to **OSVR Central** which we have opened in windows start menu.
-    ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator8.png)
+    ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Configurator8.png =500x400)
     * Click **Enable Extended Mode**.
     * Configuration is finished, you can start OSVR Server. Configuration only need to be done once.
 
 3. **Start OSVR Server**
     * Click **Tools** in the menu bar.
     * Click **Start OSVR Server**. Remember that every time the first thing to use OSVR is **Start OSVR Server**.
-    ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Server1.png)
+    ![conf](https://github.com/ideaRunner/Images/raw/master/OSVR/Start/OSVR_Server1.png =600x400)
     * Then you will see a black Dos Shell.
     * Hold your head/HMD closer than 0.3 meters from the tracking camera for a few minutes. You can watch the instruction in the Shell.
 
@@ -126,7 +126,9 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
     * **Restart** SteamVR.
 3. **Extended Mode: One lens light, the other lens off**:
 	* It is hardware part of the line connection problem.
-	* Reconnect the 
+	* Reconnect F(IR Positional Tracking Sensor Box) and D(Belt Box Module) serveral times untill it back to normal.  
+	![Belt](https://github.com/ideaRunner/Images/raw/master/OSVR/Troubleshooting/TroubleShooting.png =300x320)
+	
 4. **Extended Mode: Some applications are open on our lenses**:
 	* There are hotkeys can help you move those applications in your main screen.
 	* Open those applications.
@@ -139,7 +141,7 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
 	
 
 
-##Reference video
+##Reference Video
 [Setting Up SteamVR on a OSVR HDK2 [Nvidia]](https://www.youtube.com/watch?v=TCA0CBXmS2Q&feature=youtu.be)  
 [Setting up SteamVR on a OSVR HDK2 [Radeon]](https://www.youtube.com/watch?v=9Uju31UYWBM)
 
