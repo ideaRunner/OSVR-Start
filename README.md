@@ -1,13 +1,17 @@
 #OSVR_Quick_Start
+
 Author: BinZ@SUSTech  
 [Look at My Github](https://github.com/ideaRunner/OSVR-Start)
+
 ##Please Note
+
 This is a step-by-step tutorial that how to quickly start OSVR HDK2.  
 My graphic card is GTX1060, driver version is 376.xx and operating system is Windows10.  
 This article also can help those persons who use high Nvidia GPU driver version.  
 The official getting start tutorial you can find [Here](https://github.com/OSVR/OSVR-Docs). There is a official instruction of [Nvidia GPU driver](https://github.com/OSVR/OSVR-Docs/blob/master/Troubleshooting/RenderManager.md#compatible-gpu-drivers) 
 
 #Software Preparation
+
 There is the official [download page](http://osvr.github.io/using/). If you want to save time and do not download from official page, you can download at [my Github](https://github.com/ideaRunner/OSVR-Start).
 
 1. **OSVR Runtime for Windows**  
@@ -57,6 +61,7 @@ There is the official [download page](http://osvr.github.io/using/). If you want
 	* Finish.  
 
 #How to Start
+
 Please notice that 1. Preparation and 2. Configuration only need to be done **once**.
    
 1. **Preparation**  
@@ -111,10 +116,12 @@ Please notice that 1. Preparation and 2. Configuration only need to be done **on
     * After that, You can do anything you want.
 
 ###SteamVR Warning
+
 If your SteamVR is green **Ready**. Please do not apply the suggestions that SteamVR recommended. Because the suggestions may cause some problems.   
 You can have a try if you want, and the worst thing is to recopy the SteamVR-OSVR files.
 
 #Quick Trouble Shooting
+
 1. **SteamVR Not Ready: Compositor is not fullscreen**: 
 	* Close all the VR applications in SteamVR.
 	* Click **Make Compositor fullscreen**, if nothing happens, launch some other VR applications or restart SteamVR.
@@ -139,9 +146,8 @@ You can have a try if you want, and the worst thing is to recopy the SteamVR-OSV
 	* Press **Win + P** slowly several times until it back to normal.
 	* **Win + P** is the the hotkey to change the setting of multiple screens.  
 	
-
-
 ##Reference Video
+
 [Setting Up SteamVR on a OSVR HDK2 [Nvidia]](https://www.youtube.com/watch?v=TCA0CBXmS2Q&feature=youtu.be)  
 [Setting up SteamVR on a OSVR HDK2 [Radeon]](https://www.youtube.com/watch?v=9Uju31UYWBM)
 
